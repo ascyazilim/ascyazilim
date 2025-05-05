@@ -53,7 +53,7 @@ I'm a  **Java Backend & Full Stack Developer** based in Ankara, Turkey.
 
 - 📍 Location: Ankara, Turkey  
 - 📧 Email: [alicebecioglu7@gmail.com]  
-- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/ali-cebecioğlu-8648b963/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/ali-cebecioğlu-8648b963/)
 
 ---
 
